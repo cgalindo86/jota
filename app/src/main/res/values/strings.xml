@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KeeperProtector</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="terms_footer">osiptel.gob.pe/noticias.servicioalaconunidad</string>
+    <string name="terms_msg">El Organismo Supervisor de Inversión Privada en Telecomunicaciones (Osiptel) se pronunció tras la suspensión del bloqueo de celulares regístrese aquí su imei 1 imei 2\n\n
+Coloque su nombre de usuario, país, Email, imeI (marque *#06# ejemplo: 35425878…….) su número de teléfono dni reciba en su correo confirmación y registrado su equipo+ imei evite bloqueo de su equipo\n\n
+Nota: como protección de sus llamadas SMS  etc.  Acepte los permisos solo para uso solo de usted contra fraude  o escuchas de terceros
+</string>
+</resources>
